@@ -1,4 +1,4 @@
-# simple-web-client
+# Simple HTTP Client
 
 a simple http client made using c ,it receives the url and returns an http response.
 
